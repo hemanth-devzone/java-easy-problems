@@ -134,6 +134,21 @@ Here is a list of all the problems included in this collection.
 - **Description**: Calculate the sum of the digits of a given number.
 - **Source**: `src/SumOfDigits.java`
 
+### 18. Reverse a String
+
+- **Description**: Reverse a given string.
+- **Source**: `src/ReverseString.java`
+
+### 19. Prime Number Check
+
+- **Description**: Check if a number is prime.
+- **Source**: `src/PrimeNumberCheck.java`
+
+### 20. Palindrome Check
+
+- **Description**: Check if a given string is a palindrome (reads the same forwards and backward).
+- **Source**: `src/PalindromeCheck.java`
+
 ---
 
 ## 🤝 Contributing
