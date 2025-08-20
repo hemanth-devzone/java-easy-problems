@@ -1,6 +1,5 @@
 # Java Easy Problems
 
-
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-8%2B-blue.svg)
@@ -148,6 +147,56 @@ Here is a list of all the problems included in this collection.
 
 - **Description**: Check if a given string is a palindrome (reads the same forwards and backward).
 - **Source**: `src/PalindromeCheck.java`
+
+### 21. String Length
+
+- **Description**: Print the length of a given string.
+- **Source**: `src/Problem21_StringLength.java`
+
+### 22. String Reversal
+
+- **Description**: Reverse a string without built-in methods.
+- **Source**: `src/Problem22_StringReversal.java`
+
+### 23. Vowel Counter
+
+- **Description**: Count vowels in a string.
+- **Source**: `src/Problem23_VowelCounter.java`
+
+### 24. String to Uppercase
+
+- **Description**: Convert a string to uppercase.
+- **Source**: `src/Problem24_StringToUppercase.java`
+
+### 25. Palindrome String
+
+- **Description**: Check if a string is a palindrome.
+- **Source**: `src/Problem25_PalindromeString.java`
+
+### 26. Array Sum
+
+- **Description**: Calculate sum of elements in a 1D array.
+- **Source**: `src/Problem26_ArraySum.java`
+
+### 27. Array Maximum
+
+- **Description**: Find maximum element in an array.
+- **Source**: `src/Problem27_ArrayMaximum.java`
+
+### 28. Array Reverse
+
+- **Description**: Reverse elements of a 1D array.
+- **Source**: `src/Problem28_ArrayReverse.java`
+
+### 29. Array Even Numbers
+
+- **Description**: Print even numbers in an array.
+- **Source**: `src/Problem29_ArrayEvenNumbers.java`
+
+### 30. Array Search
+
+- **Description**: Search for an element in an array and return its index.
+- **Source**: `src/Problem30_ArraySearch.java`
 
 ---
 
