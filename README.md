@@ -156,47 +156,47 @@ Here is a list of all the problems included in this collection.
 ### 22. String Reversal
 
 - **Description**: Reverse a string without built-in methods.
-- **Source**: `src/Problem22_StringReversal.java`
+- **Source**: `src/StringReversal.java`
 
 ### 23. Vowel Counter
 
 - **Description**: Count vowels in a string.
-- **Source**: `src/Problem23_VowelCounter.java`
+- **Source**: `src/VowelCounter.java`
 
 ### 24. String to Uppercase
 
 - **Description**: Convert a string to uppercase.
-- **Source**: `src/Problem24_StringToUppercase.java`
+- **Source**: `src/StringToUppercase.java`
 
 ### 25. Palindrome String
 
 - **Description**: Check if a string is a palindrome.
-- **Source**: `src/Problem25_PalindromeString.java`
+- **Source**: `src/PalindromeString.java`
 
 ### 26. Array Sum
 
 - **Description**: Calculate sum of elements in a 1D array.
-- **Source**: `src/Problem26_ArraySum.java`
+- **Source**: `src/ArraySum.java`
 
 ### 27. Array Maximum
 
 - **Description**: Find maximum element in an array.
-- **Source**: `src/Problem27_ArrayMaximum.java`
+- **Source**: `src/ArrayMaximum.java`
 
 ### 28. Array Reverse
 
 - **Description**: Reverse elements of a 1D array.
-- **Source**: `src/Problem28_ArrayReverse.java`
+- **Source**: `src/ArrayReverse.java`
 
 ### 29. Array Even Numbers
 
 - **Description**: Print even numbers in an array.
-- **Source**: `src/Problem29_ArrayEvenNumbers.java`
+- **Source**: `src/ArrayEvenNumbers.java`
 
 ### 30. Array Search
 
 - **Description**: Search for an element in an array and return its index.
-- **Source**: `src/Problem30_ArraySearch.java`
+- **Source**: `src/ArraySearch.java`
 
 ---
 
