@@ -151,7 +151,7 @@ Here is a list of all the problems included in this collection.
 ### 21. String Length
 
 - **Description**: Print the length of a given string.
-- **Source**: `src/Problem21_StringLength.java`
+- **Source**: `src/StringLength.java`
 
 ### 22. String Reversal
 
