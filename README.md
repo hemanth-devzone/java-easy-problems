@@ -198,6 +198,56 @@ Here is a list of all the problems included in this collection.
 - **Description**: Search for an element in an array and return its index.
 - **Source**: `src/ArraySearch.java`
 
+### 31. Square Method
+
+- **Description**: Write a method to return the square of a number.
+- **Source**: `src/SquareMethod.java`
+
+### 32. Rectangle Area
+
+- **Description**: Calculate area of a rectangle using a method.
+- **Source**: `src/RectangleArea.java`
+
+### 33. Check Even Method
+
+- **Description**: Method to check if a number is even.
+- **Source**: `src/CheckEvenMethod.java`
+
+### 34. String Concatenation
+
+- **Description**: Concatenate two strings using a method.
+- **Source**: `src/StringConcatenation.java`
+
+### 35. Array Average
+
+- **Description**: Calculate average of array elements.
+- **Source**: `src/ArrayAverage.java`
+
+### 36. Simple Interest
+
+- **Description**: Calculate simple interest (P*R*T/100).
+- **Source**: `src/SimpleInterest.java`
+
+### 37. Leap Year Check
+
+- **Description**: Check if a year is a leap year.
+- **Source**: `src/LeapYearCheck.java`
+
+### 38. Triangle Area
+
+- **Description**: Calculate area of a triangle (0.5*base*height).
+- **Source**: `src/TriangleArea.java`
+
+### 39. Power of Number
+
+- **Description**: Calculate power of a number using a loop.
+- **Source**: `src/PowerOfNumber.java`
+
+### 40. GCD Calculator
+
+- **Description**: Find GCD of two numbers using a loop.
+- **Source**: `src/GcdCalculator.java`
+
 ---
 
 ## 🤝 Contributing
