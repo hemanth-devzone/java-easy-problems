@@ -248,6 +248,206 @@ Here is a list of all the problems included in this collection.
 - **Description**: Find GCD of two numbers using a loop.
 - **Source**: `src/GcdCalculator.java`
 
+### 41. Array Odd Numbers
+
+- **Description**: Print odd numbers in an array.
+- **Source**: `src/ArrayOddNumbers.java`
+
+### 42. Array Average
+
+- **Description**: Calculate the average of array elements.
+- **Source**: `src/ArrayAverage.java`
+
+### 43. Array Minimum
+
+- **Description**: Find the minimum element in an array.
+- **Source**: `src/ArrayMinimum.java`
+
+### 44. Array Sort (Ascending)
+
+- **Description**: Sort an array in ascending order.
+- **Source**: `src/ArraySortAscending.java`
+
+### 45. Array Sort (Descending)
+
+- **Description**: Sort an array in descending order.
+- **Source**: `src/ArraySortDescending.java`
+
+### 46. Array Duplicate Finder
+
+- **Description**: Find duplicate elements in an array.
+- **Source**: `src/ArrayDuplicateFinder.java`
+
+### 47. Second Largest Element
+
+- **Description**: Find the second largest element in an array.
+- **Source**: `src/SecondLargest.java`
+
+### 48. Array Frequency Counter
+
+- **Description**: Count frequency of each element in an array.
+- **Source**: `src/ArrayFrequencyCounter.java`
+
+### 49. String Word Counter
+
+- **Description**: Count the number of words in a string.
+- **Source**: `src/StringWordCounter.java`
+
+### 50. String Character Frequency
+
+- **Description**: Count frequency of each character in a string.
+- **Source**: `src/StringCharacterFrequency.java`
+
+### 51. String Replace
+
+- **Description**: Replace all occurrences of a character in a string.
+- **Source**: `src/StringReplace.java`
+
+### 52. String Substring
+
+- **Description**: Extract a substring from a given string.
+- **Source**: `src/StringSubstring.java`
+
+### 53. String Compare
+
+- **Description**: Compare two strings for equality.
+- **Source**: `src/StringCompare.java`
+
+### 54. String Contains
+
+- **Description**: Check if a string contains another substring.
+- **Source**: `src/StringContains.java`
+
+### 55. String Split
+
+- **Description**: Split a string into words using space as a delimiter.
+- **Source**: `src/StringSplit.java`
+
+### 56. String Join
+
+- **Description**: Join an array of strings into one string.
+- **Source**: `src/StringJoin.java`
+
+### 57. Array Merge
+
+- **Description**: Merge two arrays into one.
+- **Source**: `src/ArrayMerge.java`
+
+### 58. Array Equality Check
+
+- **Description**: Check if two arrays are equal.
+- **Source**: `src/ArrayEqualityCheck.java`
+
+### 59. Array Rotation
+
+- **Description**: Rotate an array by k positions.
+- **Source**: `src/ArrayRotation.java`
+
+### 60. Array Palindrome Check
+
+- **Description**: Check if an array is a palindrome.
+- **Source**: `src/ArrayPalindromeCheck.java`
+
+### 61. Array Sum of Even
+
+- **Description**: Calculate sum of even numbers in an array.
+- **Source**: `src/ArraySumOfEven.java`
+
+### 62. Array Sum of Odd
+
+- **Description**: Calculate sum of odd numbers in an array.
+- **Source**: `src/ArraySumOfOdd.java`
+
+### 63. String Reverse Words
+
+- **Description**: Reverse each word in a string.
+- **Source**: `src/StringReverseWords.java`
+
+### 64. String Toggle Case
+
+- **Description**: Convert uppercase letters to lowercase and vice versa in a string.
+- **Source**: `src/StringToggleCase.java`
+
+### 65. String Remove Vowels
+
+- **Description**: Remove all vowels from a string.
+- **Source**: `src/StringRemoveVowels.java`
+
+### 66. String Anagram Check
+
+- **Description**: Check if two strings are anagrams.
+- **Source**: `src/StringAnagramCheck.java`
+
+### 67. Factorial Recursion
+
+- **Description**: Calculate factorial using recursion.
+- **Source**: `src/FactorialRecursion.java`
+
+### 68. Fibonacci Recursion
+
+- **Description**: Print Fibonacci series using recursion.
+- **Source**: `src/FibonacciRecursion.java`
+
+### 69. Power Recursion
+
+- **Description**: Calculate power of a number using recursion.
+- **Source**: `src/PowerRecursion.java`
+
+### 70. GCD Recursion
+
+- **Description**: Find GCD of two numbers using recursion.
+- **Source**: `src/GcdRecursion.java`
+
+### 71. String Trim
+
+- **Description**: Remove leading/trailing spaces from a string.
+- **Source**: `src/StringTrim.java`
+
+### 72. String Starts With
+
+- **Description**: Check if a string starts with a given prefix.
+- **Source**: `src/StringStartsWith.java`
+
+### 73. String Ends With
+
+- **Description**: Check if a string ends with a given suffix.
+- **Source**: `src/StringEndsWith.java`
+
+### 74. Array Odd Count
+
+- **Description**: Count odd numbers in an array.
+- **Source**: `src/ArrayOddCount.java`
+
+### 75. Array Copy
+
+- **Description**: Copy elements of one array to another.
+- **Source**: `src/ArrayCopy.java`
+
+### 76. Method for Min
+
+- **Description**: Write a method to find minimum of three numbers.
+- **Source**: `src/MethodForMin.java`
+
+### 77. Method for GCD
+
+- **Description**: Write a method to find GCD of two numbers.
+- **Source**: `src/MethodForGcd.java`
+
+### 78. Method for LCM
+
+- **Description**: Write a method to find LCM of two numbers.
+- **Source**: `src/MethodForLcm.java`
+
+### 79. Method for Palindrome
+
+- **Description**: Write a method to check if a string is a palindrome.
+- **Source**: `src/MethodForPalindrome.java`
+
+### 80. Method for Array Reverse
+
+- **Description**: Write a method to reverse an array.
+- **Source**: `src/MethodForArrayReverse.java`
+
 ---
 
 ## 🤝 Contributing
