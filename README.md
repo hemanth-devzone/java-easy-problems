@@ -448,6 +448,106 @@ Here is a list of all the problems included in this collection.
 - **Description**: Write a method to reverse an array.
 - **Source**: `src/MethodForArrayReverse.java`
 
+### 81. Method for Factorial
+
+- **Description**: Write a method to calculate factorial of a number.
+- **Source**: `src/MethodForFactorial.java`
+
+### 82. Method for Fibonacci
+
+- **Description**: Write a method to print Fibonacci series up to N terms.
+- **Source**: `src/MethodForFibonacci.java`
+
+### 83. Method for Prime Check
+
+- **Description**: Write a method to check if a number is prime.
+- **Source**: `src/MethodForPrimeCheck.java`
+
+### 84. Method for Armstrong Check
+
+- **Description**: Write a method to check if a number is an Armstrong number.
+- **Source**: `src/MethodForArmstrongCheck.java`
+
+### 85. Method for Perfect Number
+
+- **Description**: Write a method to check if a number is a perfect number.
+- **Source**: `src/MethodForPerfectNumber.java`
+
+### 86. Method for Strong Number
+
+- **Description**: Write a method to check if a number is a strong number.
+- **Source**: `src/MethodForStrongNumber.java`
+
+### 87. Method for Digit Sum
+
+- **Description**: Write a method to find the sum of digits of a number.
+- **Source**: `src/MethodForDigitSum.java`
+
+### 88. Method for Reverse Number
+
+- **Description**: Write a method to reverse a number.
+- **Source**: `src/MethodForReverseNumber.java`
+
+### 89. Method for Palindrome Number
+
+- **Description**: Write a method to check if a number is a palindrome.
+- **Source**: `src/MethodForPalindromeNumber.java`
+
+### 90. Method for Count Digits
+
+- **Description**: Write a method to count digits in a number.
+- **Source**: `src/MethodForCountDigits.java`
+
+### 91. Method for Power of Digit Sum
+
+- **Description**: Write a method to calculate sum of digits raised to a power.
+- **Source**: `src/MethodForPowerOfDigitSum.java`
+
+### 92. Method for Even Digit Sum
+
+- **Description**: Write a method to calculate the sum of even digits of a number.
+- **Source**: `src/MethodForEvenDigitSum.java`
+
+### 93. Method for Odd Digit Sum
+
+- **Description**: Write a method to calculate the sum of odd digits of a number.
+- **Source**: `src/MethodForOddDigitSum.java`
+
+### 94. Method for Max Digit
+
+- **Description**: Write a method to find the maximum digit in a number.
+- **Source**: `src/MethodForMaxDigit.java`
+
+### 95. Method for Min Digit
+
+- **Description**: Write a method to find the minimum digit in a number.
+- **Source**: `src/MethodForMinDigit.java`
+
+### 96. Method for Sum of Array
+
+- **Description**: Write a method to find sum of array elements.
+- **Source**: `src/MethodForSumOfArray.java`
+
+### 97. Method for Max in Array
+
+- **Description**: Write a method to find maximum element in an array.
+- **Source**: `src/MethodForMaxInArray.java`
+
+### 98. Method for Min in Array
+
+- **Description**: Write a method to find minimum element in an array.
+- **Source**: `src/MethodForMinInArray.java`
+
+### 99. Method for Array Average
+
+- **Description**: Write a method to calculate average of array elements.
+- **Source**: `src/MethodForArrayAverage.java`
+
+### 100. Method for Array Search
+
+- **Description**: Write a method to search for an element in an array.
+- **Source**: `src/MethodForArraySearch.java`
+
 ---
 
 ## 🤝 Contributing
